@@ -1,10 +1,10 @@
 import setuptools
 
 setuptools.setup(
-    name='longerusername_3',
+    name='longerusername',
     version='1.0',
     description='longerusername that works with Django 1.8+',
-    url='https://github.com/shaunc44/longerusername_3.git',
+    url='https://github.com/shaunc44/longerusername.git',
     author='Skoczen; updated by Shaun Cox',
     author_email='shauncox44 at gmail dot com',
     license='MIT License',
