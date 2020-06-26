@@ -11,7 +11,6 @@ pip install git+https://github.com/shaunc44/longerusername.git
 ## Original Project
 https://pypi.org/project/longerusername/#description
 
-
 ## License
 [MIT License](https://github.com/shaunc44/longerusername/blob/master/LICENSE) 
 
