@@ -11,3 +11,5 @@ longerusername.egg-info/SOURCES.txt
 longerusername.egg-info/dependency_links.txt
 longerusername.egg-info/not-zip-safe
 longerusername.egg-info/top_level.txt
+longerusername/migrations/0001_initial.py
+longerusername/migrations/__init__.py

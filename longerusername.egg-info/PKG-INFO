@@ -1,7 +1,7 @@
 Metadata-Version: 1.2
 Name: longerusername
 Version: 1.0
-Summary: longerusername that works with Django 1.8+
+Summary: longerusername package that works with Django 1.8+
 Home-page: https://github.com/shaunc44/longerusername.git
 Author: Skoczen; updated by Shaun Cox
 Author-email: shauncox44 at gmail dot com

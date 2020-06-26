@@ -1,9 +1,9 @@
-import setuptools
+from setuptools import setup, find_packages
 
-setuptools.setup(
+setup(
     name='longerusername',
     version='1.0',
-    description='longerusername that works with Django 1.8+',
+    description='longerusername package that works with Django 1.8+',
     url='https://github.com/shaunc44/longerusername.git',
     author='Skoczen; updated by Shaun Cox',
     author_email='shauncox44 at gmail dot com',
@@ -25,8 +25,9 @@ setuptools.setup(
         'Framework :: Django :: 3.1',
     ],
     python_requires='>=2.7',
-    packages=['longerusername'],
+    packages=find_packages(),
     zip_safe=False,
+    include_package_data=True,
 )
 
 
